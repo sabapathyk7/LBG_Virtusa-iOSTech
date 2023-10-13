@@ -126,8 +126,6 @@
 				A2ED81132AD91756001E6459 /* View */,
 				A2ED81102AD916F9001E6459 /* Model */,
 				A2ED810D2AD9162D001E6459 /* API */,
-				A2ED80E32AD8EE15001E6459 /* LBG_Virtusa_iOSTechTestApp.swift */,
-				A2ED80E52AD8EE15001E6459 /* ContentView.swift */,
 				A2ED80E72AD8EE17001E6459 /* Assets.xcassets */,
 				A2ED80E92AD8EE17001E6459 /* Preview Content */,
 			);
@@ -183,6 +181,8 @@
 		A2ED81132AD91756001E6459 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				A2ED80E32AD8EE15001E6459 /* LBG_Virtusa_iOSTechTestApp.swift */,
+				A2ED80E52AD8EE15001E6459 /* ContentView.swift */,
 				A2ED81182AD91934001E6459 /* CurrencyListView.swift */,
 				A2ED811A2AD91949001E6459 /* CurrencyRowView.swift */,
 			);
