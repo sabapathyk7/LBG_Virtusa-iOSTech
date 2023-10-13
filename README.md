@@ -27,7 +27,20 @@ Launch the application and the screen will be presented with a list of currencie
 - Async - Await for API requests
 - XCTest for unit testing
 
-#### Unit Tests: 
+#### Unit Tests : 
 
 In Xcode, go to the "Product" menu and choose "Test" or use the shortcut (Cmd+U).
 View the test results in the Xcode test navigator.
+
+#### Screenshots :
+
+<h1>Currency List Screen</h1>
+<img src= "https://github.com/sabapathyk7/LBG_Virtusa-iOSTech/assets/40764138/2b28a6f3-62c1-43d9-a6c4-9bc0bb19f02e" height = 550> 
+
+<h1>Currency Converter </h1>
+<img src= "https://github.com/sabapathyk7/LBG_Virtusa-iOSTech/assets/40764138/443b628f-8cd3-4c14-890f-6a7940153869" height = 550> 
+
+<h1>Base Currency Change</h1>
+<img src= "https://github.com/sabapathyk7/LBG_Virtusa-iOSTech/assets/40764138/ff2aa2d1-6cdd-4118-81a4-9bdb23488b59" height = 550> 
+
+
